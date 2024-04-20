@@ -1,0 +1,88 @@
+.card-tittle{
+    color:rgb(1 32 104);
+}
+.main-form {
+    background: #ffffff57 !important;
+}
+ 
+strong{
+    color:rgb(1 32 104);
+}
+
+.fa-check-circle{
+    color:rgb(1 32 104);
+}
+.w-70{
+    width: 70% !important;
+}
+.bg-color{
+    background: #ffffff3d !important;
+}
+.ModalContent{
+    background: white;
+    border-radius: 50px;
+    padding-bottom: 13%;
+    padding-top: 13%;
+}
+<style>
+    .dropdown-menu:li {
+        text-align: left;
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+    }
+
+    .blink {
+        animation: blinker 1s linear infinite;
+    }
+
+    @keyframes  blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+
+    .upper-nav{ 
+background: linear-gradient(45deg, rgba(255,255,255,1) 35%, rgba(4,50,117,1) 35%) !important;
+    }
+</style>
+#footer{
+    background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: linear-gradient(to bottom, rgb(1 32 69 / 71%), rgb(1 32 104)), url(img/tutor-bg.jpg);
+}
+.Copyright{
+background-color: rgba(0, 0, 0, 0.05) !important;
+}
+.Copyright .web{
+font-size: 13px;
+}
+.Copyright .mobile{
+font-size: 12px;
+}
+.gotopbtn img , .gotopbtn-2 img{
+border-radius: 50px;
+width: 130% !important;}
+
+#footer{
+    background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: linear-gradient(to bottom, rgb(1 32 69 / 71%), rgb(1 32 104)), url(img/tutor-bg.jpg);
+}
+.Copyright{
+background-color: rgba(0, 0, 0, 0.05) !important;
+}
+.Copyright .web{
+font-size: 13px;
+}
+.Copyright .mobile{
+font-size: 12px;
+}
+.gotopbtn img , .gotopbtn-2 img{
+border-radius: 50px;
+width: 130% !important;
+}
